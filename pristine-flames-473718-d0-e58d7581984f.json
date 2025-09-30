@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pristine-flames-473718-d0",
+  "private_key_id": "e58d7581984fcad13faf086b5d4ab776b9441866",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2va9jAwPUpieO\nh+zX2IXASv9A1hFa0/dfiGBdTtpoBDc75CAyeYYSIZVKBV72bUbWUQCuXKhSmwsE\nv0hdQafUvzpBhikObldxEPkVooaLt05JhjRuab25LkA7Hd/qAIQyrM0vkadbuRO9\nNSLvhgKAoGyKivYDa2m2rWVma6laA0tNvVwOxr8MepKQttlsBncNu00eXbD7rnhp\n8XoeFSOCxU5RfLTKgdJ84KNfOa5KrthY6/kJ5/Gs2oGNdSGq8LqOnAmOznpJx/Tk\nYnKmo2d5AXzxDiRw4krYQfCIvd1DeIoh+VB23ripYizhVTsPI40hiNS4zEdWg2f2\nLDQMuq3vAgMBAAECggEAD42fO7kAeCnFUrfv6Q97k5O7T0xI9HP3aUQ4S28pxWuc\nCRCcyuvIuCQil2CHDHtD6a7B25VB5quQ6WnSyDLAplzsobIM+xzzruLICHB2RulZ\nlB/RHsqiKq/GKLuD5ZMyRtJDsal4cIthvWgkRCjVCRfEu5mH+cXutlN78cn2nOIA\nsMPjPFmGNrtBgP7SIQLxvRl1Wrrzr07uJ/qBmKKb4zXJsN69XPNbl+8pmg23a+G+\nZZnqc09El8cZ2ysTL3U9mr4N+ocHBSiXxaCRCPw8f+blADwKqhiDcTZuDkNvqs7I\nRVIZlomS1LscRxhPOVt4Uatd9xaDn/uqkJOpZovWoQKBgQD53q8WpE8TNkoEhGdd\nRBgVQ0ajBQ5B+hoveoPtlBteobHkgQ852iZk++LYgpJWRLYCaIIQhPyXN1s5fGAm\n+KU2CD9x3HyJFubImHXsXRbQ0iBBZHS/UbTO7GvTfCX4fmTF2cI4/DHXJcrApyvo\nday6YmcL3rjmjLGpe80WVMusjwKBgQC7OWVVryD7J7g73Yvo5ioOt9hjWzAyToWu\nv83SAkpM+gC00YE6PZbHFTjHt6SN9tsM8VS+WEH3kOf9hlo7pWk0XV19u/6bkoQN\n75N1Aogsjb9tCXJPfoDiKnPobi+KMqQb2IaFwnLFBHIPFQvgEtbkgHGuq6v6zxMi\nNhsCIo5YoQKBgEZ0OqxIsh85rI8vgjGzFJNSP+WRdF64FZATnIVtwHXjY9SJa3Cl\niTPqLiFcV8TJZQSy0RG1Xb+JlUhVQItcisD8fF8vi1HgSjx/eKin6toAlaW6nIyh\njjjWQuUD2XUCtolvCCunOKpwdoXx3RiTrZt0SZf4OeyP+TxPsxk72Z4TAoGBAKJj\nLvR5mKaeldo+15ojADmR1fqfXhdUKfke3ZsYZ2+Kq9ApoudsAfoc+wmmy/BiOy5n\np3QNQvJCWiV4QY1Yc/56OJvU0goHs8gOkxw7HPdf3rfpKJ+wfoMsBSqFX3CDafnI\n/SzJMhiWOYPBYnJwhLjeezvgJKO+tb7HpPdeF47hAoGBAN5i68loY2dGje0R4T8C\n1IcnVjzNIsvHl1OQVy73xjvtrjjOx0+1sT1pWDiq+KPbLma/+WcSNdTc348hyNb5\n3imU2/37yNEjmeeGf8oyVxMMKRSqMnqH1R3ssiLg/M0ijSfirJNHZzTHo8uxdhKM\np/Ry8znHLE6rHXVE7P/+i2J7\n-----END PRIVATE KEY-----\n",
+  "client_email": "anniversary-sheets@pristine-flames-473718-d0.iam.gserviceaccount.com",
+  "client_id": "110043200009736950742",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anniversary-sheets%40pristine-flames-473718-d0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
