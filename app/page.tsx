@@ -65,7 +65,6 @@ export default function AnniversaryInvitation() {
           body: JSON.stringify({ type: "location", value: pickupLocation }),
         });
         setIsLocationSaved(true);
-        setPickupLocation("");
         fetchLocation();
       } catch (err) {
         console.error("Error saving location:", err);
